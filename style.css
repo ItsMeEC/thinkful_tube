@@ -1,0 +1,22 @@
+* {
+	box-sizing: border-box;
+}
+
+.container {
+	padding: 45px;
+}
+
+main {
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+form {
+	margin-bottom: 35px;
+}
+
+.search-result-item {
+	display: inline-block;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
